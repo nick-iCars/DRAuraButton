@@ -21,6 +21,9 @@
  */
 - (void)removeAuraConfiguration:(NSString *)ID;
 
+- (void)setCurrentStateID:(NSString *)cS;
+
+
 /**
  *  A readonly list of the configurations.
  */
